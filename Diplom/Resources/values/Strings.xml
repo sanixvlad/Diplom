@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="openDrawer">открыто</string>
+  <string name="raspisanie">Расписание</string>
+  <string name="naponinanie">Напоминание</string>
+  <string name="mestopolojenie">Местоположение</string>
+  <string name="prepodavateli">Препоаватели</string>
+    <string name="ApplicationName">Diplom</string>
+</resources>
